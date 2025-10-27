@@ -24,7 +24,7 @@ The British University in Egypt (BUE)
 
 ---
 
-### Projects
+### Recent Projects
 - **[Fitness Tracker Web App](https://github.com/mohamedhussein03/Fitness_Tracker_Web_app)**  
   A full-stack fitness tracker web application built with modern web technologies.
 
